@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**briwilcox/briwilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently managing products to protect and delight customers. 
 - 🌱 I’m currently learning about investing, blockchain, defi, health / biohacking, history, automated farming, and philosophy. 
 - 👯 I’m looking to collaborate on any of the above. 
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 -- https://www.brianmwilcox.com/
 -- https://keybase.io/brianwilcox
-
