@@ -17,3 +17,5 @@
 Eth : 0xCdc011257803aa50226260a2231fd8553c4CD329
 
 Zcash : zs1xcv5q6zd7r5l9kdzezj6yqhwlfckajdg53gwmretvjjmgc0exzfssklwzawxpdhmptx67j69ym8
+
+Stellar : GC47S7U3TMHJPH5J7QS3Y2T6PSZFE7UB4A43ALW5JNV7OH2YUZRJXSMF
