@@ -11,6 +11,7 @@
 
 🎁 How to tip me: 
 
+Via the Brave Browser or 
 
 ₿ : 1HzqRpVjiz4dMqf4a1JrinTrzh6TngfRtJ
 
