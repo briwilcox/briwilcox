@@ -21,7 +21,9 @@ Stellar : GC47S7U3TMHJPH5J7QS3Y2T6PSZFE7UB4A43ALW5JNV7OH2YUZRJXSMF
 
 **Experiments in open source knowledge**  
 
-The "Useful" series is a set of MIT licensed articles and collections of helpful links I am putting together. They all go from beginner content, to advanced, to expert level content with the goal of being able to understand a topic at a deep level by the end. They are also an experiment in crowd sourcing knowledge. Some topics so far include 
+The "Useful" series is a set of MIT licensed articles and collections of helpful links I am putting together. They all go from beginner content, to advanced, to expert level content with the goal of being able to understand a topic at a deep level from a cold start. They are also an experiment in crowd sourcing knowledge. 
+
+Topics (more soon): 
 - [Useful Product Management](https://github.com/briwilcox/UsefulProductManagement)
 - [Useful Cryptocurrency](https://github.com/briwilcox/UsefulCryptocurrency)
 - [Useful Payments](https://github.com/briwilcox/UsefulPayments)
