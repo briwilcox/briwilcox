@@ -13,14 +13,8 @@ Hi there 👋
 🌐 Get in touch with me through:
 
 🔗 [My personal website](https://www.brianmwilcox.com/)
+
 🔗 [Keybase](https://keybase.io/brianwilcox)
-
-💰 Want to show some appreciation? Tip me:
-
-- Via the Brave Browser
-- Bitcoin (₿): 1HzqRpVjiz4dMqf4a1JrinTrzh6TngfRtJ
-- Ethereum (ETH): 0xCdc011257803aa50226260a2231fd8553c4CD329
-- Zcash: zs1xcv5q6zd7r5l9kdzezj6yqhwlfckajdg53gwmretvjjmgc0exzfssklwzawxpdhmptx67j69ym8
 
 🌟 Experiments in open source knowledge
 
