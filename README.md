@@ -2,7 +2,7 @@ Hi there 👋
 
 🚀 I'm a passionate product manager, focusing on creating products that protect and delight customers.
 
-🎓 I'm diving deep into learning about ML usecases, investing, infosec, health/biohacking, history, automated farming, and philosophy.
+🎓 I'm diving deep into machine learning and AI, especially applied to security, anti-fraud, and investing. Also reading about infosec, health, longevity, automated farming, history, and philosophy.
 
 🤝 I'm eager to collaborate on projects related to any of the topics I'm learning about.
 
