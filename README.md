@@ -26,7 +26,7 @@ Topics (more soon):
 
 👨‍💻 Coding Projects
 - [Todoist GPT Assistant
-](https://github.com/briwilcox/todoist-gpt-assistant): An AI assistant for your todoist tasks.
+](https://github.com/briwilcox/todoist-llm-assistant): An AI assistant for your todoist tasks.
 - [Don't Spend That Money](https://www.dontspendthatmoney.com/): Find the true time cost of buying something with DSTM - The Opportunity Cost Calculator. [Source](https://github.com/briwilcox/dontspendthatmoney)  
 - [Concurrent Pandas](https://github.com/briwilcox/Concurrent-Pandas): Concurrent Pandas is a Python Library that allows you to use Pandas and / or Quandl to concurrently download bulk data using threads or processes.  
 - [Algorithm Concepts in Go](https://github.com/briwilcox/algos): Algorithm examples in Go. 
